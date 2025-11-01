@@ -1,4 +1,6 @@
-# 🚀 Yash Bodhe  
+<img src="https://www.yash12007.com/yashbodhe.jpg" width="120" height="120" style="border-radius:50%;"/>
+
+# Yash Bodhe  
 **Entrepreneur and Founder of Yash12007**
 
 ---
