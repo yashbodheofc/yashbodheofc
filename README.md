@@ -20,7 +20,7 @@ Yash's proficiency spans across an impressive array of programming languages, en
 
 Interested in collaborating or have a project in mind? Don't hesitate to reach out! Connect with Yash Bodhe and explore how Yash12007 can bring your ideas to life with creativity and expertise.
 
-📧 **Email:** [yash12007@yahoo.com](mailto:yash12007@yahoo.com)  
+📧 **Email:** [founder@yash12007.com](mailto:founder@yash12007.com)  
 🌐 **Website:** [www.yash12007.com](https://www.yash12007.com)  
 📱 **GitHub:** [github.com/Yash12007](https://github.com/Yash12007)
 
