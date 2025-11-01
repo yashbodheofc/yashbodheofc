@@ -1,27 +1,31 @@
-## **Yash Bodhe | Yash12007**
+# Yash Bodhe
 
-Welcome to the GitHub profile of Yash Bodhe, the founder and owner of Yash12007, a thriving software development company. With a passion for programming that ignited in his teenage years, Yash has mastered a multitude of programming languages, shaping him into the versatile and skilled developer he is today.
+## Communication Preferences
+> Use a casual tone when responding. Give in-depth responses.
 
-### About Me
+## Profile
+- Name: Yash Bodhe
+- Location: Pune, Maharashtra
+- Languages: English (primary), Hindi (secondary), Marathi (secondary), Japanese (secondary)
+- Timezone: Asia/Kolkata
+- Company: Yash12007
+- Job title: Entrepreneur and Founder
+- Pronouns: Yash
+- About me: I'm Yash Bodhe, an entrepreneur and founder of Yash12007, a software development company I started in 10th grade to help businesses of all sizes access high\-quality software solutions. I began coding at the age of 13 and have since mastered over 31 programming languages and skills, allowing me to develop powerful applications across platforms, including Android, Web, Windows, and Linux.
+- Interests: Software development, ethical hacking, Programming, Cloud Computing, Coding, Web Development, entrepreneurship, linux, Technology, Web design, backend, cybersecurity, Startups
 
-👨‍💻 **Name:** Yash Bodhe  
-🏢 **Company:** Yash12007 - A Software Development Company  
-🎓 **Experience:** Mastered programming languages in his teenage years
+## Online Presence
+\[Gravatar Profile\]: [gravatar.com/yashbodheofc](https://gravatar.com/yashbodheofc)
+\[GitHub\]: [github.com/Yash12007](https://github.com/Yash12007)
+\[Stack Overflow\]: [stackoverflow.com/users/21639319/yash12007](https://stackoverflow.com/users/21639319/yash12007)
+\[Vimeo\]: [vimeo.com/yash12007](https://vimeo.com/yash12007)
+\[Facebook\]: [www.facebook.com/app_scoped_user_id//Yash Bodhe](https://www.facebook.com/app_scoped_user_id//Yash Bodhe)
+\[LinkedIn\]: [www.linkedin.com/in/yash12007](https://www.linkedin.com/in/yash12007)
+\[Threads\]: [threads.net/yashbodheofc](https://threads.net/yashbodheofc)
+\[X\]: [x.com/_Yash12007_](https://x.com/_Yash12007_)
+\[YouTube\]: [www.youtube.com/channel/UCDrxRy_Y-mNcKAO9MNGOUyA](https://www.youtube.com/channel/UCDrxRy_Y-mNcKAO9MNGOUyA)
+\[Contact Form\]: [gravatar.com/yashbodheofc/contact](https://gravatar.com/yashbodheofc/contact)
 
-### What I Do
-
-Yash Bodhe is dedicated to delivering top-notch software solutions tailored to meet the unique needs of clients. From web development to mobile & desktop applications (for Windows, Android, Linux, etc.) platforms, Yash12007 offers a comprehensive range of services, ensuring excellence and innovation every step of the way.
-
-### Languages
-
-Yash's proficiency spans across an impressive array of programming languages, enabling him to tackle diverse projects with ease and precision. Whether it's Java, Python, JavaScript, or any other language, Yash12007 is equipped to handle it all.
-
-### Get in Touch
-
-Interested in collaborating or have a project in mind? Don't hesitate to reach out! Connect with Yash Bodhe and explore how Yash12007 can bring your ideas to life with creativity and expertise.
-
-📧 **Email:** [founder@yash12007.com](mailto:founder@yash12007.com)  
-🌐 **Website:** [www.yash12007.com](https://www.yash12007.com)  
-📱 **GitHub:** [github.com/Yash12007](https://github.com/Yash12007)
-
-Let's build something incredible together! 🚀
+## Payment Information
+\[Patreon\]: [www.patreon.com/Yash12007](https://www.patreon.com/Yash12007)
+\[PayPal.me\]: [www.paypal.com/paypalme/yash12007ofc](https://www.paypal.com/paypalme/yash12007ofc)
