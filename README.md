@@ -41,7 +41,7 @@ Software Development • Ethical Hacking • Programming • Cloud Computing •
 [![X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_Yash12007_)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash12007)
 [![Gravatar](https://img.shields.io/badge/Gravatar-%236F6F6F.svg?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/yashbodheofc)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21639319/yash12007)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21639319/yash-bodhe)
 [![Vimeo](https://img.shields.io/badge/Vimeo-%231AB7EA.svg?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/yash12007)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDrxRy_Y-mNcKAO9MNGOUyA)
 
